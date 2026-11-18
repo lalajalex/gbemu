@@ -1,0 +1,6 @@
+build/
+roms/
+*.gb
+*.gbc
+*.sav
+.vscode/
